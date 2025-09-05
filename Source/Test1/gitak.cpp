@@ -1,6 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 //test1
 //충돌테스트
+// 정기준 주석 추가
+
 #include "gitak.h"
 
 // Sets default values
