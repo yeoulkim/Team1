@@ -33,15 +33,15 @@
 ## 🎯 프로젝트 목표
 
 - **최후의 1인을 가리는 서바이벌 파티 게임**
-플레이어 처치 → KillCount 증가 → 최종 생존자 판정 or 히든 승리 조건 발동
+     - 플레이어 처치 → KillCount 증가 → 최종 생존자 판정 or 히든 승리 조건 발동
 - **다양한 플레이 동작과 전략 요소**
-춤추기, 숨기, 아이템 활용, 자기장 축소 등 상황에 맞는 선택 제공
+     - 춤추기, 숨기, 아이템 활용, 자기장 축소 등 상황에 맞는 선택 제공
 - **히든 승리 조건 시스템**
-춤추기 15회 성공 시 즉시 승리 가능 → 전략적 모험 요소 추가
+     - 춤추기 15회 성공 시 즉시 승리 가능 → 전략적 모험 요소 추가
 - **멀티플레이 기반 구조**
-플레이어 간 전투 및 상태(HP, 애니메이션, KillCount) 서버–클라이언트 동기화
+     - 플레이어 간 전투 및 상태(HP, 애니메이션, KillCount) 서버–클라이언트 동기화
 - **UI/UX 완성도 강화**
-체력/산소 게이지 HUD, 결과 화면, 웨이팅/엔딩 메뉴 등 직관적 UI 제공
+     - 체력/산소 게이지 HUD, 결과 화면, 웨이팅/엔딩 메뉴 등 직관적 UI 제공
 
 <br>
 
@@ -204,9 +204,9 @@
 - [Rider](https://www.jetbrains.com/ko-kr/rider/) – 개발 환경
 - [Blender](https://www.blender.org/download/) – 이펙트 메쉬 제작, 3D 모델링 및 애니메이션 수정
 - [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/) – Game Flow Chart 제작
-- [Suno](https://suno.com/home) - 노래 제작 
-- [Pixabay](https://pixabay.com/) - 배경 음악
-- [Convertio](https://convertio.co/kr/mp3-wav/) - 사운드 파일 확장자 변경
+- [Suno](https://suno.com/home) – 노래 제작 
+- [Pixabay](https://pixabay.com/) – 배경 음악
+- [Convertio](https://convertio.co/kr/mp3-wav/) – 사운드 파일 확장자 변경
 
 <br>
 
