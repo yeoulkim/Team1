@@ -118,7 +118,7 @@
  - GameMode: 규칙/승리조건 등록 (최종 1명 생존 + 히든 승리: 춤 15회)
 
 4. **플레이 동작 선택**
-- 플레이어는 다양한 행동을 할 수 있다:
+- 플레이어는 다양한 행동을 할 수 있다 :
 - 🕺 **춤추기**
    - 이벤트: `DanceStart/End` → `DanceCount++`
    - 패널티: 캐릭터 주위로 불꽃 기둥 (가시성↑/추적↑)
@@ -183,6 +183,7 @@
 - [베리어 아이템 효과 미적용 문제](https://www.notion.so/kimyeoul/280cf60eefb680818137e6a7c136c3c7)
 - [아이템 오버랩 이펙트 과도 재생 문제](https://www.notion.so/kimyeoul/280cf60eefb680218676c5cd96a311e8)
 - [Dedicated Server에서 QuitGame 호출로 인한 강제 종료 문제](https://www.notion.so/kimyeoul/Dedicated-Server-QuitGame-284cf60eefb6803aa6ded852b140d42f)
+- [Dedicated Server 환경에서 타이머 및 멀티캐스트 애님 접근으로 인한 크래시 문제](https://www.notion.so/kimyeoul/Dedicated-Server-284cf60eefb680489bacd8f907cdf3d2)
 
 <br>
 
