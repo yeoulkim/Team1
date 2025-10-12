@@ -164,6 +164,7 @@
 <br>
 
 ## 🛠 트러블 슈팅
+
 - [NPC 몽타주 중복 재생 문제](https://www.notion.so/kimyeoul/NPC-280cf60eefb6808caae8c51ce2deae14)
 - [슬라이딩 동작 중복 입력 문제](https://www.notion.so/kimyeoul/280cf60eefb6801f8bc7ca1a446e9ef0)
 - [캐릭터 수영 이동 불가 문제](https://www.notion.so/kimyeoul/280cf60eefb6807798e4e9ae9ce49868)
@@ -182,8 +183,9 @@
 - [미니맵 밝기 문제](https://www.notion.so/kimyeoul/280cf60eefb68020925aeadbc7b6c3d9)
 - [베리어 아이템 효과 미적용 문제](https://www.notion.so/kimyeoul/280cf60eefb680818137e6a7c136c3c7)
 - [아이템 오버랩 이펙트 과도 재생 문제](https://www.notion.so/kimyeoul/280cf60eefb680218676c5cd96a311e8)
-- [Dedicated Server에서 QuitGame 호출로 인한 강제 종료 문제](https://www.notion.so/kimyeoul/Dedicated-Server-QuitGame-284cf60eefb6803aa6ded852b140d42f)
-- [Dedicated Server 환경에서 타이머 및 멀티캐스트 애님 접근으로 인한 크래시 문제](https://www.notion.so/kimyeoul/Dedicated-Server-284cf60eefb680489bacd8f907cdf3d2)
+- [QuitGame 호출로 인한 강제 종료 문제](https://www.notion.so/kimyeoul/Dedicated-Server-QuitGame-284cf60eefb6803aa6ded852b140d42f)
+- [타이머 및 멀티캐스트 애님 접근으로 인한 크래시 문제](https://www.notion.so/kimyeoul/Dedicated-Server-284cf60eefb680489bacd8f907cdf3d2)
+- [패키징 서버 로그 분석](https://www.notion.so/kimyeoul/288cf60eefb680b1acb9d4bd405713db)
 
 <br>
 
@@ -200,7 +202,6 @@
 
 <br>
 
-
 ## ⚙️ 사용한 툴
 
 - [Rider](https://www.jetbrains.com/ko-kr/rider/) – 개발 환경
@@ -213,6 +214,7 @@
 <br>
 
 ## 🎨 Resources
+
 - [Low Poly Bird: Penguin](https://www.fab.com/listings/0133d312-535f-42c7-8ae7-3574ba242ad4)
 - [Low Poly Winter Environment 3D Asset Pack](https://www.fab.com/listings/e4463c67-f0a3-44e4-b5ae-746020aea5ef)
 - [Quirky Series FREE Pack](https://www.fab.com/ko/listings/db770e79-a950-4bb0-8086-1bc04187fe83)
@@ -229,6 +231,7 @@
 <br>
 
 ## 🧾 노션
+
 - [Dancing Gueen : 펭귄 슬라이드 휭~](https://www.notion.so/kimyeoul/Dancing-Gueen-265cf60eefb6800ab133e16a41f5bfd5)
 
 <br>
